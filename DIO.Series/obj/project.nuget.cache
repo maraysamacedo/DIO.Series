@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "cgUsiqIoCPLkVXPdbZTU4ia93wuqKcGK1qmttvvNQffOMW9FhCl08MW+Wfx6gDDKP60XkKdI3/KvCPTqgnlREg==",
+  "dgSpecHash": "oTkQFlt87n8VqAUSrkOwzQ60eQnfN6RsvM1JaCtKTlkrJe41P/V3YCbzidtfoXWJO8srTo6Us6twfwTsGSe6WQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Acer\\source\\repos\\DIO.Series\\DIO.Series\\DIO.Series.csproj",
+  "projectFilePath": "C:\\Users\\Acer\\source\\repos\\C# - DIO\\DIO.Series\\DIO.Series\\DIO.Series.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Acer\\.nuget\\packages\\assemblyinfo\\0.2.2\\assemblyinfo.0.2.2.nupkg.sha512"
   ],

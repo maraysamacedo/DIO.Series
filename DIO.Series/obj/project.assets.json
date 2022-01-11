@@ -42,11 +42,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Acer\\source\\repos\\DIO.Series\\DIO.Series\\DIO.Series.csproj",
+      "projectUniqueName": "C:\\Users\\Acer\\source\\repos\\C# - DIO\\DIO.Series\\DIO.Series\\DIO.Series.csproj",
       "projectName": "DIO.Series",
-      "projectPath": "C:\\Users\\Acer\\source\\repos\\DIO.Series\\DIO.Series\\DIO.Series.csproj",
+      "projectPath": "C:\\Users\\Acer\\source\\repos\\C# - DIO\\DIO.Series\\DIO.Series\\DIO.Series.csproj",
       "packagesPath": "C:\\Users\\Acer\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Acer\\source\\repos\\DIO.Series\\DIO.Series\\obj\\",
+      "outputPath": "C:\\Users\\Acer\\source\\repos\\C# - DIO\\DIO.Series\\DIO.Series\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Acer\\AppData\\Roaming\\NuGet\\NuGet.Config",
