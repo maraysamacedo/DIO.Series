@@ -1,0 +1,21 @@
+{
+  "version": 2,
+  "dgSpecHash": "cgUsiqIoCPLkVXPdbZTU4ia93wuqKcGK1qmttvvNQffOMW9FhCl08MW+Wfx6gDDKP60XkKdI3/KvCPTqgnlREg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Acer\\source\\repos\\DIO.Series\\DIO.Series\\DIO.Series.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Acer\\.nuget\\packages\\assemblyinfo\\0.2.2\\assemblyinfo.0.2.2.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "O pacote 'assemblyinfo 0.2.2' foi restaurado usando '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8' em vez da estrutura de destino do projeto '.NETCoreApp,Version=v3.1'. Esse pacote pode não ser totalmente compatível com o seu projeto.",
+      "libraryId": "assemblyinfo",
+      "targetGraphs": [
+        ".NETCoreApp,Version=v3.1"
+      ]
+    }
+  ]
+}
